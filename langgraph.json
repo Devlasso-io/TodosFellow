@@ -1,11 +1,9 @@
 {
-    "dockerfile_lines": [],
-    "graphs": {
-      "task_maistro": "./task_maistro.py:graph"
-    },
-    "env": "./.env",
-    "python_version": "3.11",
-    "dependencies": [
-      "."
-    ]
-  }
+  "dockerfile_lines": [],
+  "graphs": {
+    "todos_fellow": "./todos_fellow.py:graph"
+  },
+  "env": "./.env",
+  "python_version": "3.11",
+  "dependencies": ["."]
+}
